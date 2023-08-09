@@ -41,3 +41,9 @@ function multiply(a,b){
 function fun(){
     return"hello";
 }
+function greet(){
+    return"good night"
+}
+function greet(){
+    return"good morning"
+}
