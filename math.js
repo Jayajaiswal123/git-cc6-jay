@@ -41,3 +41,9 @@ function multiply(a,b){
 function fun(){
     return"hello";
 }
+
+// code by Himanshu
+function power(a,b)
+{
+    return Math.pow(a,b)
+}
